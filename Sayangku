@@ -19,10 +19,12 @@ Mau custom web ucapan online & tanpa watermark? Order Aja di Deka Tutorial !! (D
     </div>
 
     <script>
-      ucapan = `sayang aku minta maaf
-      ya sayang uda bikin ayong kesel
-      aku sayang banget sama kamu ayon
-      iloveyou cantik❤️`;
+      ucapan = `sayang aku minta 
+maaf ya sayang uda bikin
+ayong kesel
+aku sayang banget
+sama kamu ayong
+iloveyou cantik❤️`;
       musik = ``;
       nomorWhatsapp = ``;
       idTelegram = ``;
